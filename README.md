@@ -1,7 +1,7 @@
 ## About me
 
 I am currently a postdoctoral researcher in [Chatterjee's group](https://ist.ac.at/en/research/chatterjee-group/) at the Institute of Science and Technology Austria (IST Austria).
-Between 2014 and 2019, I did my PhD in computer science under the supervision of [Emmanuel Filiot](https://di.ulb.ac.be/verif/filiot/) and Jean-François Raskin in the [formal methods and verification group](https://di.ulb.ac.be/verif/index-en.html) at the Université libre de Bruxelles (ULB).
+Between 2014 and 2019, I did my PhD in computer science under the supervision of [Emmanuel Filiot](https://di.ulb.ac.be/verif/filiot/) and [Jean-François Raskin](http://di.ulb.ac.be/verif/jfr/) in the [formal methods and verification group](https://di.ulb.ac.be/verif/index-en.html) at the Université libre de Bruxelles (ULB).
 Before that, I studied mathematics at the École polytechnique fédérale de Lausanne (EPFL).
 
 

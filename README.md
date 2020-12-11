@@ -1,4 +1,4 @@
-title: Ismaël Jecker
+Ismaël Jecker
 
 ## Publications
 

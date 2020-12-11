@@ -41,10 +41,6 @@ Emmanuel Filiot, Ismaël Jecker, Christof Löding, Sarah Winter.
 Ismaël Jecker, Emmanuel Filiot.
 
 ## Contact
-**Address**:
-IST Austria  
-Am Campus 1  
-3400 Klosterneuburg  
-Austria
+**Postal address**: IST Austria, Am Campus 1, 3400 Klosterneuburg, Austria
 
-**Email**: ismael \[dot\] jecker \[at\] ist \[dot\] ac \[dot\] at
+**Email address**: ismael \[dot\] jecker \[at\] ist \[dot\] ac \[dot\] at

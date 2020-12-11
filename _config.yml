@@ -1,5 +1,4 @@
 theme: jekyll-theme-slate
 title: Ismaël Jecker
 description: description
-github:
-  is_project_page: false
+is_project_page: false

@@ -1,14 +1,3 @@
-
-## Contact
-**Address**:
-IST Austria  
-Am Campus 1  
-3400 Klosterneuburg  
-Austria
-
-**Email**: ismael\[dot\]jecker\[at\]ist\[dot\]ac\[dot\]at
-
-
 ## Publications
 
 [Infinite-Duration All-Pay Bidding Games](https://arxiv.org/pdf/2005.06636.pdf) (**SODA 2021**)  
@@ -44,4 +33,11 @@ Emmanuel Filiot, Ismaël Jecker, Christof Löding, Sarah Winter.
 [Multi-sequential Word Relations](https://arxiv.org/pdf/1504.03864.pdf) (**DLT 2015**)  
 Ismaël Jecker, Emmanuel Filiot.
 
+## Contact
+**Address**:
+IST Austria  
+Am Campus 1  
+3400 Klosterneuburg  
+Austria
 
+**Email**: ismael\[dot\]jecker\[at\]ist\[dot\]ac\[dot\]at

@@ -1,5 +1,3 @@
-Ismaël Jecker
-
 ## Publications
 
 [Simplified Game of Life: Algorithms and Complexity](https://arxiv.org/pdf/2007.02894.pdf) (**MFCS 2020**).  
@@ -13,6 +11,25 @@ Nicolas Basset, Ismaël Jecker, Arno Pauly, Jean-François Raskin, Marie van den
 
 The Complexity of Transducer Synthesis from Multi-Sequential Specifications. (**MFCS 2018**).  
 Léo Exibard, Emmanuel Filiot, Ismaël Jecker.
+
+Degree of Sequentiality of Weighted Automata. (**FoSSaCS 2017**).  
+Laure Daviaud, Ismaël Jecker, Pierre-Alain Reynier, Didier Villevalois
+
+On Reversible Transducers. (**ICALP 2017**).  
+Luc Dartois, Paulin Fournier, Ismaël Jecker, Nathan Lhote.
+
+On delay and regret determinization of max-plus automata. (**LICS 2017**)  
+Emmanuel Filiot, Ismaël Jecker, Nathan Lhote, Guillermo A. Pérez, Jean-François Raskin
+
+Aperiodic String Transducers. (**DLT 2016**)  
+Luc Dartois, Ismaël Jecker, Pierre-Alain Reynier.
+
+On Equivalence and Uniformisation Problems for Finite Transducers. (**ICALP 2016**)  
+Emmanuel Filiot, Ismaël Jecker, Christof Löding, Sarah Winter.
+
+Multi-sequential Word Relations. (**DLT 2015**)  
+Ismaël Jecker, Emmanuel Filiot.
+
 
 
 

@@ -1,5 +1,8 @@
 ## Publications
 
+[Infinite-Duration All-Pay Bidding Games](https://arxiv.org/pdf/2005.06636.pdf) (**SODA 2021**)  
+Guy Avni, Ismaël Jecker, Ðorđe Žikelić.
+
 [Simplified Game of Life: Algorithms and Complexity](https://arxiv.org/pdf/2007.02894.pdf) (**MFCS 2020**)  
 Krishnendu Chatterjee, Rasmus Ibsen-Jensen, Ismaël Jecker, Jakub Svoboda.
 

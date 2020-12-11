@@ -6,7 +6,7 @@ Krishnendu Chatterjee, Rasmus Ibsen-Jensen, Ismaël Jecker, Jakub Svoboda.
 [Unary Prime Languages](https://drops.dagstuhl.de/opus/volltexte/2020/12717/pdf/LIPIcs-MFCS-2020-51.pdf) (**MFCS 2020**).  
 Ismaël Jecker, Orna Kupferman, Nicolas Mazzocchi.
 
-Beyond Admissibility: Dominance Between Chains of Strategies (**CSL 2018**).
+Beyond Admissibility: Dominance Between Chains of Strategies (**CSL 2018**).  
 Nicolas Basset, Ismaël Jecker, Arno Pauly, Jean-François Raskin, Marie van den Bogaard.
 
 The Complexity of Transducer Synthesis from Multi-Sequential Specifications. (**MFCS 2018**).  

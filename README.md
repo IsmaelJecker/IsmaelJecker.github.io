@@ -1,3 +1,5 @@
+#Ismaël Jecker
+
 ## Publications
 
 Simplified Game of Life: Algorithms and Complexity (MFCS 2020).

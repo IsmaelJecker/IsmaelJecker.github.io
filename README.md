@@ -1,3 +1,13 @@
+
+## Contact
+IST Austria
+Am Campus 1
+3400 Klosterneuburg
+Austria
+
+**email**: first name dot last name at ist dot ac dot at
+
+
 ## Publications
 
 [Infinite-Duration All-Pay Bidding Games](https://arxiv.org/pdf/2005.06636.pdf) (**SODA 2021**)  

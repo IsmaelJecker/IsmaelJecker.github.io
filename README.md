@@ -1,4 +1,13 @@
-## Welcome to GitHub Pages
+## Publications
+
+Simplified Game of Life: Algorithms and Complexity (MFCS 2020).
+Krishnendu Chatterjee, Rasmus Ibsen-Jensen, Ismaël Jecker, Jakub Svoboda.
+
+Unary Prime Languages (MFCS 2020).
+Ismaël Jecker, Orna Kupferman, Nicolas Mazzocchi.
+
+
+
 
 You can use the [editor on GitHub](https://github.com/IsmaelJecker/IsmaelJecker.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 

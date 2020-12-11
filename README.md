@@ -2,10 +2,10 @@
 
 ## Publications
 
-### Simplified Game of Life: Algorithms and Complexity (MFCS 2020).
+[Simplified Game of Life: Algorithms and Complexity](https://arxiv.org/pdf/2007.02894.pdf) (**MFCS 2020**).  
 Krishnendu Chatterjee, Rasmus Ibsen-Jensen, Ismaël Jecker, Jakub Svoboda.
 
-### Unary Prime Languages (MFCS 2020).
+[Unary Prime Languages](https://drops.dagstuhl.de/opus/volltexte/2020/12717/pdf/LIPIcs-MFCS-2020-51.pdf) (**MFCS 2020**).  
 Ismaël Jecker, Orna Kupferman, Nicolas Mazzocchi.
 
 

@@ -23,13 +23,13 @@ Nicolas Basset, Ismaël Jecker, Arno Pauly, Jean-François Raskin, Marie van den
 Léo Exibard, Emmanuel Filiot, Ismaël Jecker.
 
 [Degree of Sequentiality of Weighted Automata](https://arxiv.org/pdf/1701.04632.pdf) (**FoSSaCS 2017**)  
-Laure Daviaud, Ismaël Jecker, Pierre-Alain Reynier, Didier Villevalois
+Laure Daviaud, Ismaël Jecker, Pierre-Alain Reynier, Didier Villevalois.
 
 [On Reversible Transducers](https://arxiv.org/pdf/1702.07157.pdf) (**ICALP 2017**)  
 Luc Dartois, Paulin Fournier, Ismaël Jecker, Nathan Lhote.
 
 [On delay and regret determinization of max-plus automata](https://arxiv.org/pdf/1701.02903.pdf) (**LICS 2017**)  
-Emmanuel Filiot, Ismaël Jecker, Nathan Lhote, Guillermo A. Pérez, Jean-François Raskin
+Emmanuel Filiot, Ismaël Jecker, Nathan Lhote, Guillermo A. Pérez, Jean-François Raskin.
 
 [Aperiodic String Transducers](https://arxiv.org/pdf/1506.04059.pdf) (**DLT 2016**)  
 Luc Dartois, Ismaël Jecker, Pierre-Alain Reynier.

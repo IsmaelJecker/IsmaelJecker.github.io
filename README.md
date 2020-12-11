@@ -46,4 +46,4 @@ Am Campus 1
 3400 Klosterneuburg  
 Austria
 
-**Email**: ismael\[dot\]jecker\[at\]ist\[dot\]ac\[dot\]at
+**Email**: ismael \[dot\] jecker \[at\] ist \[dot\] ac \[dot\] at

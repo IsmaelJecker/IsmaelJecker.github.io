@@ -5,7 +5,13 @@ Between 2014 and 2019, I did my PhD in computer science under the supervision of
 Before that, I studied mathematics at the École polytechnique fédérale de Lausanne (EPFL).
 
 
+## Slides used for my CNRS application
+
+
 ## Publications
+
+[A Ramsey Theorem for Finite Monoids](https://drops.dagstuhl.de/opus/volltexte/2021/13689/pdf/LIPIcs-STACS-2021-44.pdf) (**STACS 2021**)  
+Ismaël Jecker.
 
 [Infinite-Duration All-Pay Bidding Games](https://arxiv.org/pdf/2005.06636.pdf) (**SODA 2021**)  
 Guy Avni, Ismaël Jecker, Ðorđe Žikelić.

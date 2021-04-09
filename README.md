@@ -7,7 +7,7 @@ Before that, I studied mathematics at the École polytechnique fédérale de Lau
 
 ## Slides used for my CNRS application
 
-<a href="/Downloads/Jecker.pdf" download>Download My Slides</a> 
+<a href="/Downloads/Jecker.pdf" download="download">Download My Slides</a> 
 
 ## Publications
 

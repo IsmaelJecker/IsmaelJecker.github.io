@@ -17,6 +17,15 @@ Before that, I studied mathematics at the École polytechnique fédérale de Lau
 
 ## Publications
 
+[On the Complexity of Intersection Non-emptiness for Star-Free Language Classes](https://drops.dagstuhl.de/opus/volltexte/2021/15545/pdf/LIPIcs-FSTTCS-2021-34.pdf) (**FSTTCS 2021**)  
+Emmanuel Arrighi, Henning Fernau, Stefan Hoffmann, Markus Holzer, Ismaël Jecker, Mateus de Oliveira Oliveira, Petra Wolf.
+
+[A Bit of Nondeterminism Makes Pushdown Automata Expressive and Succinct](https://drops.dagstuhl.de/opus/volltexte/2021/14493/pdf/LIPIcs-MFCS-2021-53.pdf) (**MFCS 2021**)  
+Shibashis Guha, Ismaël Jecker, Karoliina Lehtinen, Martin Zimmermann.
+
+[Decomposing Permutation Automata](https://drops.dagstuhl.de/opus/volltexte/2021/14395/pdf/LIPIcs-CONCUR-2021-18.pdf) (**CONCUR 2021**)  
+Ismaël Jecker, Nicolas Mazzocchi, Petra Wolf.
+
 [A Ramsey Theorem for Finite Monoids](https://drops.dagstuhl.de/opus/volltexte/2021/13689/pdf/LIPIcs-STACS-2021-44.pdf) (**STACS 2021**)  
 Ismaël Jecker.
 

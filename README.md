@@ -1,6 +1,6 @@
 ## About me
 
-I am currently a postdoctoral researcher supervised by Wojciech Czerwiński
+I am currently a postdoctoral researcher supervised by [Wojciech Czerwiński](https://www.mimuw.edu.pl/~wczerwin/)
 at the Institute of Informatics,
 Faculty of Mathematics, Informatics and Mechanics of the University of Warsaw ([MIMUW](https://www.mimuw.edu.pl/en)).
 

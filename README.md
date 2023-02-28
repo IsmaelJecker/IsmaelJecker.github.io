@@ -17,6 +17,18 @@ Before that, I studied mathematics at the École polytechnique fédérale de Lau
 
 ## Publications
 
+[A regular and complete notion of delay for streaming string transducers](https://drops.dagstuhl.de/opus/volltexte/2022/17403/pdf/LIPIcs-FSTTCS-2022-11.pdf) (**STACS 2023**)  
+Emmanuel Filiot, Ismaël Jecker, Christof Löding, Sarah Winter.
+
+[Bidding Graph Games with Partially-Observable Budgets](https://drops.dagstuhl.de/opus/volltexte/2022/17403/pdf/LIPIcs-FSTTCS-2022-11.pdf) (**AAAI 2023**)  
+Guy Avni, Ismaël Jecker, Ðorđe Žikelić.
+
+[Complexity of Spatial Games](https://drops.dagstuhl.de/opus/volltexte/2022/17403/pdf/LIPIcs-FSTTCS-2022-11.pdf) (**FSTTCS 2022**)  
+Krishnendu Chatterjee, Rasmus Ibsen-Jensen, Ismaël Jecker, Jakub Svoboda.
+
+[Parikh Automata over Infinite Words](https://drops.dagstuhl.de/opus/volltexte/2022/17432/pdf/LIPIcs-FSTTCS-2022-40.pdf) (**FSTTCS 2022**)  
+Shibashis Guha, Ismaël Jecker, Karoliina Lehtinen, Martin Zimmermann.
+
 [On the Complexity of Intersection Non-emptiness for Star-Free Language Classes](https://drops.dagstuhl.de/opus/volltexte/2021/15545/pdf/LIPIcs-FSTTCS-2021-34.pdf) (**FSTTCS 2021**)  
 Emmanuel Arrighi, Henning Fernau, Stefan Hoffmann, Markus Holzer, Ismaël Jecker, Mateus de Oliveira Oliveira, Petra Wolf.
 

@@ -19,7 +19,7 @@ Before that, I studied mathematics at the École polytechnique fédérale de Lau
 
 ## Publications
 
-A regular and complete notion of delay for streaming string transducers (**STACS 2023**)  
+[A regular and complete notion of delay for streaming string transducers](https://drops.dagstuhl.de/opus/volltexte/2023/17684/pdf/LIPIcs-STACS-2023-32.pdf) (**STACS 2023**)  
 Emmanuel Filiot, Ismaël Jecker, Christof Löding, Sarah Winter.
 
 Bidding Graph Games with Partially-Observable Budgets (**AAAI 2023**)  

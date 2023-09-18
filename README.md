@@ -1,6 +1,7 @@
 ## About me
+I am a tenured associate professor (Maître de Conférences) at Université de Franche-Comté and a member of the [Vesontio](https://www.femto-st.fr/en/Research-departments/DISC/Research-groups/VESONTIO) team.
 
-I am currently a postdoctoral researcher supervised by [Wojciech Czerwiński](https://www.mimuw.edu.pl/~wczerwin/)
+Between 2021 and 2023 I was a postdoctoral researcher supervised by [Wojciech Czerwiński](https://www.mimuw.edu.pl/~wczerwin/)
 at the Institute of Informatics,
 Faculty of Mathematics, Informatics and Mechanics of the University of Warsaw ([MIMUW](https://www.mimuw.edu.pl/en)).
 

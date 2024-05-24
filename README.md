@@ -20,16 +20,16 @@ My CV (in french):
 --->
 
 ## Publications
-Finite-valued Streaming String Transducers(**LICS 2024**)
+Finite-valued Streaming String Transducers (**LICS 2024**)  
 Emmanuel Filiot, Ismaël Jecker, Christof Löding, Anca Muscholl, Gabriele Puppis and Sarah Winter. 
 
-Determinisation and Unambiguisation of Polynomially-Ambiguous Rational Weighted Automata(**LICS 2024**)
+Determinisation and Unambiguisation of Polynomially-Ambiguous Rational Weighted Automata (**LICS 2024**)  
 Ismaël Jecker, Filip Mazowiecki and David Purser.
 
-[New Lower Bounds for Reachability in Vector Addition Systems](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.FSTTCS.2023.35)(**FSTTCS 2023**)
+[New Lower Bounds for Reachability in Vector Addition Systems](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.FSTTCS.2023.35) (**FSTTCS 2023**)  
 Wojciech Czerwiński, Ismaël Jecker, Jérôme Leroux, Sławomir Lasota, Łukasz Orlikowski.
 
-[History-Deterministic Parikh Automata](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.CONCUR.2023.31)(**CONCUR 2023**)
+[History-Deterministic Parikh Automata](https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.CONCUR.2023.31) (**CONCUR 2023**)  
 Enzo Erlich, Shibashis Guha, Ismaël Jecker, Karoliina Lehtinen, Martin Zimmermann:
 
 [A regular and complete notion of delay for streaming string transducers](https://drops.dagstuhl.de/opus/volltexte/2023/17684/pdf/LIPIcs-STACS-2023-32.pdf) (**STACS 2023**)  

@@ -20,7 +20,7 @@ My CV (in french):
 --->
 
 ## Presentation Slides - May 28, 2024
-<a href="/Downloads/hardness.pdf" download="download">How hard it the reachability problem for Petri nets?</a>
+<a href="/Downloads/hardness2.pdf" download="download">How hard it the reachability problem for Petri nets?</a>
 
 
 ## Publications

@@ -19,6 +19,10 @@ My CV (in french):
 <a href="/Downloads/Jecker.pdf" download="download">Download My Slides</a>
 --->
 
+## Presentation Slides - May 28, 2024
+<a href="/Downloads/hardness.pdf" download="download">Download</a>
+
+
 ## Publications
 Finite-valued Streaming String Transducers (**LICS 2024**)  
 Emmanuel Filiot, Ismaël Jecker, Christof Löding, Anca Muscholl, Gabriele Puppis and Sarah Winter. 

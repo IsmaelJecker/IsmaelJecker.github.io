@@ -19,9 +19,10 @@ My CV (in french):
 <a href="/Downloads/Jecker.pdf" download="download">Download My Slides</a>
 --->
 
-## Presentation Slides - May 28, 2024
-<a href="/Downloads/hardness2.pdf" download="download">How hard it the reachability problem for Petri nets?</a>
-<a href="/Downloads/LICS2024.pdf" download="download">Finite-valued streaming string transducers</a>
+## Slides
+**LICS 2024**: <a href="/Downloads/LICS2024.pdf" download="download">Finite-valued streaming string transducers</a>
+
+**May 28 2024**: <a href="/Downloads/hardness2.pdf" download="download">How hard it the reachability problem for Petri nets?</a>
 
 
 ## Publications

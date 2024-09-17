@@ -20,6 +20,8 @@ My CV (in french):
 --->
 
 ## Slides
+**Highlights 2024**: <a href="/Downloads/Highlights2024.pdf" download="download">Finite-valued streaming string transducers</a>
+
 **LICS 2024**: <a href="/Downloads/LICS2024.pdf" download="download">Finite-valued streaming string transducers</a>
 
 **May 28 2024**: <a href="/Downloads/hardness2.pdf" download="download">How hard is the reachability problem for Petri nets?</a>
